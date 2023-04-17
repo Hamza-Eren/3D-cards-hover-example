@@ -5,7 +5,6 @@ Kullanılan dil : HTML-CSS
 
 ## Önizleme
 
-<video width="360" height="203" controls="controls">
-  <source src="https://github.com/Hamza-Eren/3D-cards-hover-example/blob/main/önizlemeler/önizleme.mp4" type="video/mp4"/>
-  Tarayıcınız video etiketini desteklemiyor.
-</video>
+
+https://user-images.githubusercontent.com/130919122/232373087-42d6415a-79db-4ac7-9d6c-050df060ca26.mp4
+
